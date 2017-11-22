@@ -49,6 +49,7 @@ h3 {
 }
 
 img {
+	vertical-align: text-top;
 	display: block;
     margin: auto;
     width: 40%;
