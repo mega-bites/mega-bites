@@ -29,7 +29,7 @@ text-align: center;
 #headerlist ul li a
 {
 text-decoration: none;
-padding: .2em 1em;
+padding: .10px;
 color: #2DB270;
 background-color: #72A27B;
 }
