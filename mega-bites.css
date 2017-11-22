@@ -49,5 +49,7 @@ h3 {
 }
 
 img {
-	align-items: center
+	display: block;
+    margin: auto;
+    width: 40%;
 }
