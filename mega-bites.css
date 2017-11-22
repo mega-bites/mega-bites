@@ -35,12 +35,12 @@ text-align: center;
 {
 text-decoration: none;
 padding: .2em 1em;
-color: #fff;
+color: #2DB270;
 background-color: #036;
 }
 
 #headerlist ul li a:hover
 {
-color: #fff;
+color: #2DB270;
 background-color: #369;
 }
