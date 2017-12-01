@@ -69,16 +69,16 @@ border-color: #009ad5;
 background-color: #4868ac;
 border-color: #314776;
 }
-<<<<<<< HEAD
+
+.btn-pinterest {
+background-color: #b62f26;
+border-color: #b62f26;
+}
 
 h3 {
 	text-align: center;
 	color: white;
 	font-size: 40px;
-=======
-.btn-pinterest {
-background-color: #b62f26;
-border-color: #b62f26;
->>>>>>> 146bb37b6420e7ae058c8a091fe8adf362beb827
 }
+
 </head>
