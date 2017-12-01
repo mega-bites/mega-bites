@@ -57,9 +57,13 @@ img {
     border: 5px solid white;
 }
 
+#social-bar{
+
+}
 
 .social_buttons {
 	font-size: 48px;
+	padding: 10px 50px;
 }
 
 
