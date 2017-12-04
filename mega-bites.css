@@ -1,12 +1,9 @@
-<head> Mega-bites 
-<link href='mega-bites/css/bootstrap.css' rel='stylesheet'>
 body {
-	background-color: #CFF1E0
+	background-color: #008F41
 }
-
 h1 {
 	text-align: center;
-	color: #E49ADE;
+	color: ##000000;
 	font-family: 'Helvetica';
 	font-size: 30px;
 }
@@ -17,6 +14,7 @@ h2 {
 	font-size: 20px;
 }
 
+}
 #headerlist ul
 {
 margin: 0;
@@ -53,32 +51,31 @@ h3 {
 img {
 	display: block;
     margin: auto;
-    width: 40%;
-    border: 5px solid white;
+    width: 10%;
 }
-
-{
-#social-buttons button {
-color: white;
-}
-.btn-twitter {
-background-color: #00acee;
-border-color: #009ad5;
-}
-.btn-facebook {
-background-color: #4868ac;
-border-color: #314776;
-}
-<<<<<<< HEAD
 
 h3 {
 	text-align: center;
 	color: white;
 	font-size: 40px;
-=======
-.btn-pinterest {
-background-color: #b62f26;
-border-color: #b62f26;
->>>>>>> 146bb37b6420e7ae058c8a091fe8adf362beb827
 }
-</head>
+
+#social-bar{
+	text-align: center;
+}
+
+.social_buttons {
+	font-size: 48px;
+	padding: 10px 30px;
+}
+
+#btn-twitter {
+	color:#009EF6;
+}
+#btn-facebook {
+	color:#4360B5;
+}
+
+#btn-pinterest {
+	color:#CD0000;
+}
