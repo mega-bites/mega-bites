@@ -1,7 +1,6 @@
 body {
-	background-color: #CFF1E0
+	background-color: #008F41
 }
-
 h1 {
 	text-align: center;
 	color: ##000000;
@@ -15,6 +14,7 @@ h2 {
 	font-size: 20px;
 }
 
+}
 #headerlist ul
 {
 margin: 0;
@@ -68,7 +68,6 @@ h3 {
 	font-size: 48px;
 	padding: 10px 30px;
 }
-
 
 #btn-twitter {
 	color:#009EF6;
