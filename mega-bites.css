@@ -1,9 +1,9 @@
 body {
-	background-color: #008F41
+	background-color: #008f41
 }
 h1 {
 	text-align: center;
-	color: ##000000;
+	color: #000000;
 	font-family: 'Helvetica';
 	font-size: 30px;
 }
@@ -34,18 +34,15 @@ font-size: 30px;
 #headerlist ul li a
 {
 text-decoration: none;
-<<<<<<< HEAD
-padding: 10px 100px;
+padding: 10px 10px;
 color: #2DB270;
 background-color: #EBC7EA
 font-size: 20px;
 text-align: center;
-=======
 padding: .10px;
 color: #ffffff;
 background-color: #EBC7EA
 font-size: 30px;
->>>>>>> 9dc9f3dcdc00c3b44e563317fc1ba19f51450823
 
 }
 
@@ -92,4 +89,11 @@ h3 {
 
 #btn-pinterest {
 	color:#CD0000;
+}
+.header-image{
+	height: 20%;
+}
+
+.script-writing{
+	font-size: 15px;
 }
